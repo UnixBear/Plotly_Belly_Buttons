@@ -2,7 +2,7 @@
 
 > Belly Graphs on Biodiversity Data. Visualization done with Plotly.js
 
-![Picture of a Cell](./static/images/cell.jpg)
+![Picture of a Cell](./static/cell.jpg)
 
 ## Overview of Project
 
